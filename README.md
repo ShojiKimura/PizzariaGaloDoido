@@ -41,41 +41,52 @@ Os dados são armazenados em arquivos **CSV**, funcionando como um banco de dado
 
 ---
 
-Pré-requisitos
-Certifique-se de ter o Node.js e o npm (gerenciador de pacotes do Node.js) instalados em sua máquina. Você pode baixá-los do site oficial do Node.js
+📋 Pré-requisitos
+
+Antes de começar, certifique-se de ter instalado em sua máquina:
+
+Node.js
+
+npm (gerenciador de pacotes do Node.js)
+
+Git Bash
+
+Você pode baixá-los nos sites oficiais do Node.js
+ e do Git
 
 ---
 
-Instalação
-Clone o repositório:
-Abra seu terminal e execute o seguinte comando para baixar o projeto:
+📥 Instalação
+
+No terminal, clone o repositório:
 
 bash
 
 git clone https://github.com/ShojiKimura/PizzariaGaloDoido.git
 
-Acesse o diretório do projeto:
-Navegue até a pasta do projeto que acabou de ser clonada:
-
-Bash
-
-cd nome-do-repositorio
-
-Instale as dependências:
-[cite_start]O projeto utiliza as dependências listadas no arquivo 
-
-package.json, como TypeScript e ts-node. Instale-as executando o comando:   
-
-Bash
-
-npm install
-
 ---
 
-Execução
-O projeto é escrito em TypeScript e precisa ser executado através do ts-node. Para iniciar o sistema, simplesmente rode o seguinte comando no terminal, estando no diretório do projeto:
+🚀 Execução
+
+Acesse o diretório do projeto:
 
 Bash
 
-npm start
+cd PizzariaGaloDoido
+
+
+Entre na pasta js:
+
+Bash
+
+cd js
+
+
+Inicie a aplicação:
+
+Bash
+
+node index.js
+
+
 

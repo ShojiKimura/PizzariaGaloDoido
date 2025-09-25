@@ -57,6 +57,9 @@ Você pode baixá-los nos sites oficiais do Node.js
 
 ---
 
+<img width="901" height="674" alt="image" src="https://github.com/user-attachments/assets/6bf8794c-5d77-4306-9fdf-9e1be7d5a3b9" />
+
+
 📥 Instalação
 
 No terminal, clone o repositório:

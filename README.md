@@ -36,7 +36,8 @@ Os dados são armazenados em arquivos **CSV**, funcionando como um banco de dado
 
 ## 🛠️ Tecnologias Utilizadas
 - **TypeScript** → Linguagem principal, garantindo tipagem e robustez.  
-- **Node.js** → Ambiente de execução do sistema.  
+- **Node.js** → Ambiente de execução do sistema.  \\\
+- **Git** → Terminal para execução do código
 - **CSV (Comma-Separated Values)** → Formato de armazenamento simples e persistente.  
 
 ---
@@ -45,11 +46,11 @@ Os dados são armazenados em arquivos **CSV**, funcionando como um banco de dado
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
 
-Node.js
+Node.js (https://nodejs.org/pt/download)
 
 npm (gerenciador de pacotes do Node.js)
 
-Git Bash
+Git Bash (https://git-scm.com/downloads)
 
 Você pode baixá-los nos sites oficiais do Node.js
  e do Git

@@ -52,7 +52,7 @@ Abra seu terminal e execute o seguinte comando para baixar o projeto:
 
 bash
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ShojiKimura/PizzariaGaloDoido.git
 
 Acesse o diretório do projeto:
 Navegue até a pasta do projeto que acabou de ser clonada:
